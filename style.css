@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+#scrn {
+ position : absolute;
+}
+
+#background {
+  position : absolute;
+}
+
+#fps {
+	position : absolute;
+	margin: 15px;
+  color: #FFF;
+}
